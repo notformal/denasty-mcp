@@ -1,0 +1,12 @@
+{
+  "name": "denasty",
+  "description": "DeNasty: shared project memory for AI tools",
+  "owner": { "name": "Denha Nexus s.r.o.", "url": "https://denasty.me" },
+  "plugins": [
+    {
+      "name": "denasty",
+      "source": "./",
+      "description": "Recall and remember project decisions across your AI tools through DeNasty (OAuth sign-in, no token)."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "denasty": {
+      "type": "http",
+      "url": "https://denasty.me/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "denasty",
+  "displayName": "DeNasty memory",
+  "version": "0.1.0",
+  "description": "Shared project memory for your AI tools: recall decisions and conventions at the start of work, remember new ones. Sign-in by OAuth, no token to copy.",
+  "author": { "name": "Denha Nexus s.r.o.", "url": "https://denasty.me" },
+  "homepage": "https://denasty.me/connect",
+  "privacyPolicyUrl": "https://denasty.me/privacy",
+  "documentationUrl": "https://denasty.me/connect",
+  "license": "MIT",
+  "keywords": ["memory", "mcp", "project-memory", "context"]
+}
