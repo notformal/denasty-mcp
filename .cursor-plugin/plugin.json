@@ -1,0 +1,13 @@
+{
+  "name": "denasty",
+  "description": "Shared project memory for your AI tools: recall decisions and conventions at the start of work, remember new ones. Hosted remote MCP server, sign in with OAuth.",
+  "version": "0.1.0",
+  "author": { "name": "Denha Nexus s.r.o.", "email": "info@denasty.me" },
+  "homepage": "https://denasty.me/connect",
+  "repository": "https://github.com/notformal/denasty-mcp",
+  "license": "MIT",
+  "keywords": ["memory", "mcp", "project-memory", "context"],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
